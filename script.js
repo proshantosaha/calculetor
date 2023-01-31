@@ -1,4 +1,3 @@
- let calculator = document.querySelector("#calculator");
  let number = document.querySelector(".number");
  let keys = document.querySelectorAll(".key");
  let calcBox = document.querySelector(".calc-box");
